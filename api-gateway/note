@@ -1,0 +1,2 @@
+yarn add apollo-server apollo-server-express config cookie-parser cors express got
+yarn add -D @types/config @types/cookie-parser

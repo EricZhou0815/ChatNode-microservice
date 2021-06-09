@@ -1,0 +1,1 @@
+console.log("Chat service is up. Hello World!")
