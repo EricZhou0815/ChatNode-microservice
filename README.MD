@@ -1,4 +1,4 @@
-# A Chat app using microservice structure with CI/CD pipeline deploying to AWS
+# A Chat-like app allows a user to save and search notes in conversations with a chatbo. Use microservice structure with CI/CD pipeline deploying to AWS
 
 #### works on node version > 12
 
