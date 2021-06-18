@@ -4,7 +4,7 @@
 
 ### Tech-stack: 
 
-#### Typescript (Node, React), GraphQL, Docker
+#### Typescript (Node, React), GraphQL, Docker, MySQL
 
 ### Structure:
 
