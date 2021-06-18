@@ -1,15 +1,19 @@
-# A Chat app using microservice structure
+# A Chat app using microservice structure with CI/CD pipeline deploying to AWS
 
-### Tech-stack: Typescript (Node, React), GraphQL, Docker
+#### works on node version > 12
 
-### TODO: add NLP module (Django), setup CI/CD, deploy to AWS
+### Tech-stack: 
 
-## structure:
+#### Typescript (Node, React), GraphQL, Docker
 
-### chat-app (Frontend) -> api-Gateway -> users-service -> users-service-db
-                            
-###                                    -> chat-service -> chat-service-db
+### Structure:
 
+#### chat-app (Frontend) -> api-Gateway (GraphQL) -> (users-service -> users-service-db | chat-service -> chat-service-db)
 
+### TODO: 
 
-## works on node version > 12
+#### - add NLP module (Django), 
+
+#### - setup CI/CD, 
+
+#### - deploy to AWS
